@@ -24,6 +24,7 @@ FITUR :
    - Menampilkan tabel dengan daftar karyawan.
    - Termasuk NIK, Nama Lengkap, Alamat, Gaji Pokok, dan opsi untuk menetapkan gaji.
 
+
 PENGGUNAAN : 
 ![image](https://github.com/Unixhuman/Tugas-2-Gaji-Karyawan/assets/146809846/4357bb24-b6d9-4273-9f9e-aa5d6918e111)
 ![image](https://github.com/Unixhuman/Tugas-2-Gaji-Karyawan/assets/146809846/21728677-edf8-411d-9521-33028235da7e)
