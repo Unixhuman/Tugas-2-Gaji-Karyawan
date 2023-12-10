@@ -1,11 +1,11 @@
 # Dokumentasi-Tugas-2-Gaji-Karyawan
 FITUR :
-1. Entri Data Karyawan (add_karyawan.php):
+1. Data Karyawan (add_karyawan.php):
    - Memungkinkan pengguna untuk menambahkan informasi karyawan baru.
    - Menangkap NIK (Nomor Induk Karyawan), Nama Lengkap, Alamat, dan Gaji Pokok.
    - Menyediakan opsi untuk menetapkan gaji untuk karyawan tersebut (Set Gaji link).
      
-2. Entri Data Gaji (add_gaji.php):
+2. Data Gaji (add_gaji.php):
    - Memungkinkan pengguna untuk menambahkan informasi gaji untuk karyawan tertentu.
    - Menangkap NIK, Jam Kerja, Upah Lembur, Tanggal, dan Total Gaji.
    - Menghitung dan menampilkan total gaji berdasarkan jam kerja, upah lembur, dan parameter lainnya.
@@ -34,12 +34,12 @@ PENGGUNAAN :
    - Klik tombol Simpan untuk menambahkan karyawan.
 
 2. Menetapkan Gaji untuk Karyawan:
-   - Buka add_gaji.php?nik=<nik_karyawan>.
+   - Buka add_gaji.php.
    - Masukkan jam kerja, upah lembur, tanggal, dan sistem akan menghitung total gaji.
    - Klik tombol Simpan untuk menambahkan informasi gaji untuk karyawan.
 
 3. Mengedit Informasi Gaji:
-   - Buka edit_gaji.php?id=<id_gaji>.
+   - Buka edit_gaji.php.
    - Edit informasi yang relevan (jam kerja, upah lembur, tanggal).
    - Klik tombol Simpan untuk memperbarui informasi gaji.
 
