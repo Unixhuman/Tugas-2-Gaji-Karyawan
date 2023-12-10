@@ -1,5 +1,5 @@
 # Dokumentasi-Tugas-2-Gaji-Karyawan
-Fitur:
+FITUR :
 1. Entri Data Karyawan (add_karyawan.php):
    - Memungkinkan pengguna untuk menambahkan informasi karyawan baru.
    - Menangkap NIK (Nomor Induk Karyawan), Nama Lengkap, Alamat, dan Gaji Pokok.
