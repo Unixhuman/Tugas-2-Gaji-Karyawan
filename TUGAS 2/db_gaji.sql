@@ -1,7 +1,3 @@
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-START TRANSACTION;
-SET time_zone = "+00:00";
-
 CREATE TABLE `gaji` (
   `id` int(11) NOT NULL,
   `nik` char(13) NOT NULL,
@@ -22,7 +18,6 @@ CREATE TABLE `user` (
   `alamat` varchar(200) NOT NULL,
   `gaji_pokok` double NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
 
 INSERT INTO `user` (`nik`, `nama_lengkap`, `alamat`, `gaji_pokok`) VALUES
 ('112233445566', 'Kazuha', 'Denpasar', 35000),
